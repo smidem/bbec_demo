@@ -1,0 +1,6 @@
+.idea
+__pycache__
+
+# If your password and username are stored as plaintext in secret.py,
+# then you'll want to uncomment the following line:
+# secret.py
